@@ -3,6 +3,7 @@ About Data
 Dataset contains unemployment statistics for Indian states including date of recording, measured monthly. It includes rates of unemployment, employed individuals, and labor participation among 16-64 year-olds.
 
 Overview
+
 Region: The specific region or state in India where the data was collected.
 
 Date: The date the data was collected, providing a time frame for the analysis.
@@ -18,4 +19,5 @@ Estimated Labour Participation Rate (%): The estimated percentage of the working
 Area: Any additional information about the area that may be relevant (e.g., urban, rural).
 
 Task
+
 Analyze trends in unemployment across Indian states over time, focusing on monthly data. Investigate factors affecting unemployment rates and explore variations in labor participation and employment levels. Provide insights into the impact of these trends on the Indian job market.
